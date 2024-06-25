@@ -1,5 +1,9 @@
 ## Bem vindo ao meu perfil 👋
 
+*Meu nome é sofia, estou aprendendo programação
+
+*00001097479195sp@al.educacao.sp.gov.br
+
 
 
 <!--
