@@ -1,10 +1,12 @@
 ## Bem vindo ao meu perfil 👋
 
-*Meu nome é **sofia**
+* Meu nome é **sofia**
 
-*estou aprendendo programação em java script
+* Sou aluna da materia de tecnologia e inovação.
+* Estou participando de um curso com base na linguagem javascript na biblioteca p5js.
+* Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula.
 
-*00001097479195sp@al.educacao.sp.gov.br
+* 00001097479195sp@al.educacao.sp.gov.br
 
 
 
