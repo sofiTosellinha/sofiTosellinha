@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 👋
 
-* Meu nome é **sofia Toselli**
+* Meu nome é **Sofia Toselli**
 
 * Sou aluna da materia de tecnologia e inovação.
 * Estou participando de um curso com base na linguagem javascript na biblioteca p5js.
